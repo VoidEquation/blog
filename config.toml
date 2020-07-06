@@ -2,3 +2,14 @@ baseURL = "https://voidequation.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "sam"
+[[params.mainMenu]]
+    link = "/photography"
+    text = "photography"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who dis?"
